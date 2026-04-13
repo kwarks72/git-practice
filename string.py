@@ -13,3 +13,10 @@ print(txt7)
 print("="*50)
 print("my program")
 print("="*50)
+
+
+greeting="hello world"
+greeting[0]
+print(greeting[0])
+
+print("hello python")
