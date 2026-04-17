@@ -4,3 +4,4 @@ import matplotlib.pyplot as plt
 
 
 arr= np.arange(10)
+arr[5]
